@@ -5,8 +5,8 @@ function Contact() {
     <section id="contact" className="section">
       <h2>Contact</h2>
       <p>Email: mehulaphatangare@email.com</p>
-      <p>LinkedIn: linkedin.com/in/yourprofile</p>
-      <p>GitHub: github.com/yourusername</p>
+      <p>LinkedIn: www.linkedin.com/in/mehul-phatangare-ab0207216</p>
+      <p>GitHub: https://github.com/Mehul3107</p>
     </section>
   );
 }
